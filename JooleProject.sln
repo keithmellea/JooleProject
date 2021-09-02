@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "JooleProject", "JooleProject.sqlproj", "{ABC88C0F-E293-4317-A5CA-D553B0520A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JooleSite", "..\JooleSite\JooleSite.csproj", "{392B6252-5BAC-4BE2-BCC2-7793BF90E930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC88C0F-E293-4317-A5CA-D553B0520A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC88C0F-E293-4317-A5CA-D553B0520A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC88C0F-E293-4317-A5CA-D553B0520A95}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ABC88C0F-E293-4317-A5CA-D553B0520A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC88C0F-E293-4317-A5CA-D553B0520A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC88C0F-E293-4317-A5CA-D553B0520A95}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{392B6252-5BAC-4BE2-BCC2-7793BF90E930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392B6252-5BAC-4BE2-BCC2-7793BF90E930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392B6252-5BAC-4BE2-BCC2-7793BF90E930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392B6252-5BAC-4BE2-BCC2-7793BF90E930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18CA1B4C-DFE1-46A8-9CA7-CD45461DED95}
+	EndGlobalSection
+EndGlobal

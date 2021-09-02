@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="d86e2c4b-6117-4bad-ac46-2169e60ca90c" ChangeDateTime="09/02/2021 18:58:55">
+    <Property Name="ElementName" Value="[dbo].[Product].[User-Email]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Product]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="User_Email" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="468cf021-3e5f-421a-b313-d41ffb00fc7d" ChangeDateTime="09/02/2021 19:07:48">
+    <Property Name="ElementName" Value="[dbo].[Table1].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Table1]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Project_ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="10fe5e93-2fc5-4290-b3b9-1874b419038d" ChangeDateTime="09/02/2021 19:14:14">
+    <Property Name="ElementName" Value="[dbo].[Product].[User_Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Product]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Product_Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="12ea0fac-e73d-4814-8eff-59924645641b" ChangeDateTime="09/02/2021 19:14:30">
+    <Property Name="ElementName" Value="[dbo].[Product].[User_Name]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Product]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Product_Name" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="db177872-1c58-42b3-a22b-95e179efbd16" ChangeDateTime="09/02/2021 19:14:35">
+    <Property Name="ElementName" Value="[dbo].[Product].[User_Email]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Product]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Product_Image" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="efc39711-08c3-4c7b-8568-20af12eaa6df" ChangeDateTime="09/02/2021 19:14:42">
+    <Property Name="ElementName" Value="[dbo].[Product].[User_Image]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Product]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Series" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="714d8f7d-dcb0-4f68-955e-8acad53e5886" ChangeDateTime="09/02/2021 19:14:46">
+    <Property Name="ElementName" Value="[dbo].[Product].[User_Password]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Product]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Model" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="1444cac3-0f77-4323-a7c3-979c71eff4bf" ChangeDateTime="09/02/2021 19:17:24">
+    <Property Name="ElementName" Value="[dbo].[ProjToProd].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ProjToProd]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Project_ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="bcaee59c-fa8a-4c1d-9a0f-53e11357b247" ChangeDateTime="09/02/2021 19:48:34">
+    <Property Name="ElementName" Value="[dbo].[Product].[Product_Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Product]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Product_ID" />
+  </Operation>
+</Operations>
